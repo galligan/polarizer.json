@@ -39,6 +39,7 @@ Polarizer is a simple `.json` file that defines which NFTs, and NFT contracts sh
   ]
 }
 ```
+[View an example here](https://gateway.pinata.cloud/ipfs/QmRXZo6nojy9AwYQ82iUKwJdhTTea1uequBEQEms4xHmEq), as published on IPFS.
 
 In the above example, all NFTs contained within the wallet would be displayed *except* the ones in the blocked array. The address listed in this example is a token contract, meaning that *all* NFTs minted via that contract would not be displayed.
 
