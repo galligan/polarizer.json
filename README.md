@@ -13,7 +13,7 @@ Polarizer is a simple `.json` file that defines which NFTs, and NFT contracts sh
 
 ```
 {
-  "name": "Polarizer.json"
+  "name": "Polarizer.json",
   "version": 0.1,
   "allowed": [
   ],
@@ -30,7 +30,7 @@ Polarizer is a simple `.json` file that defines which NFTs, and NFT contracts sh
 
 ```
 {
-  "name": "Polarizer.json"
+  "name": "Polarizer.json",
   "version": 0.1,
   "allowed": [
   ],
